@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 91816 93960
+string GDS_END 29615656
+string GDS_FILE /openlane/designs/picorv32/runs/RUN_2026.05.29_09.50.20/results/signoff/picorv32.magic.gds
+string GDS_START 954270
+<< end >>

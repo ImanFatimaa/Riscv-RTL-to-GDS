@@ -1,0 +1,1 @@
+lvs {/openlane/designs/picorv32/runs/RUN_2026.05.29_09.50.20/results/signoff/picorv32.spice picorv32} {/openlane/designs/picorv32/runs/RUN_2026.05.29_09.50.20/tmp/signoff/36-picorv32.pnl.v picorv32} /home/iman/.ciel/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/picorv32/runs/RUN_2026.05.29_09.50.20/logs/signoff/39-picorv32.lef.lvs.log -json

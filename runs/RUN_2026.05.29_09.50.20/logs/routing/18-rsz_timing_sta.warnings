@@ -1,0 +1,10 @@
+[WARNING GRT-0026] Missing route to pin _11736_/A2.
+[WARNING GRT-0026] Missing route to pin _11736_/B1.
+[WARNING GRT-0026] Missing route to pin _11736_/Y.
+[WARNING GRT-0026] Missing route to pin _11739_/B1.
+[WARNING GRT-0026] Missing route to pin _11778_/X.
+[WARNING GRT-0026] Missing route to pin _11925_/X.
+[WARNING GRT-0026] Missing route to pin _11739_/A2.
+[WARNING GRT-0026] Missing route to pin rebuffer3/X.
+Warning: There are 106 unconstrained endpoints.
+[WARNING] Did not save OpenROAD database!
