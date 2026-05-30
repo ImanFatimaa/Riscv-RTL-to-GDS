@@ -1,0 +1,9 @@
+{
+  "DESIGN_NAME": "picorv32",
+  "VERILOG_FILES": "dir::src/picorv32.v",
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 10,
+  "FP_SIZING": "relative",
+  "DIE_AREA": "0 0 600 600",
+  "PL_TARGET_DENSITY": 0.55
+}
